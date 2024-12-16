@@ -66,6 +66,7 @@ function NewHeader() {
           onClick={toggleSidebar}
         >
           {sidebarOpen ? "Close" : "Menu"}
+    
         </button>
 
         {/* Desktop Menu */}

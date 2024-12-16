@@ -95,7 +95,7 @@ function Header() {
           </button>
           <ul className="flex flex-col gap-4 font-Montserrat font-semibold text-gray-700 mt-10">
             <li><Link href="/">Home</Link></li>
-            <li><Link href="/shop">Shops</Link></li>
+            <li><Link href="/shops">Shops</Link></li>
             <li><Link href="/about">About</Link></li>
             <li><Link href="/blog">Blog</Link></li>
             <li><Link href="/contact">Contact</Link></li>
